@@ -3,7 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=speedbird22&label=Profile%20views&color=0e75b6&style=flat" alt="speedbird22" /> </p>
 
-<h3 align="left">Connect with me: akshithreddyworld2020@gmail.com </h3>
+- 🔭 I’m currently working on **gym buddy**
+
+- 🌱 I’m currently learning **Java, Python**
+
+- 🤝 I’m looking for help with **this project**
+
+- 💬 Ask me about **HTML, CSS, C++**
+
+- 📫 How to reach me **akshithreddyworld2020@gmail.com**
+
+- ⚡ Fun fact **HTML is my most favorite language**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
