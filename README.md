@@ -28,7 +28,7 @@
 
 
 <h3>About my project - Google Teachable - Gym buddy</h3>
-
+<h1> Site link: https://teachablemachine.withgoogle.com/models/Gc0OzdME1/</h1>
 <h4>Gym Buddy is a revolutionary exercise posture recognition tool designed to optimize workout experiences by analyzing and classifying different exercise postures. It identifies potential form flaws and provides tailored corrections to help users achieve ideal posture and avoid injury. Imagine it as an advanced altitude control system on an aircraft. When autopilot detects the aircraft isn’t at the required altitude, it overrides manual control and fine-tunes adjustments to reach the perfect altitude. Similarly, Gym Buddy recognizes the user's current exercise, analyzes the posture, and offers real-time, actionable feedback to enhance each movement.
 
 However, Gym Buddy doesn’t stop at correction—it is a comprehensive fitness companion. It motivates users to push harder, work consistently, and stay on track with their fitness goals. Through personalized gym plans uniquely designed to suit individual needs, Gym Buddy helps users steadily progress, ensuring they remain engaged and make sustainable gains.
