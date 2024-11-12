@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **HTML is my most favorite language**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
@@ -25,3 +25,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=speedbird22&show_icons=true&locale=en&layout=compact" alt="speedbird22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=speedbird22&show_icons=true&locale=en" alt="speedbird22" /></p>
+
+
+<h3>About my project - Google Teachable - Gym buddy</h3>
+
+<h4>Gym Buddy is a revolutionary exercise posture recognition tool designed to optimize workout experiences by analyzing and classifying different exercise postures. It identifies potential form flaws and provides tailored corrections to help users achieve ideal posture and avoid injury. Imagine it as an advanced altitude control system on an aircraft. When autopilot detects the aircraft isn’t at the required altitude, it overrides manual control and fine-tunes adjustments to reach the perfect altitude. Similarly, Gym Buddy recognizes the user's current exercise, analyzes the posture, and offers real-time, actionable feedback to enhance each movement.
+
+However, Gym Buddy doesn’t stop at correction—it is a comprehensive fitness companion. It motivates users to push harder, work consistently, and stay on track with their fitness goals. Through personalized gym plans uniquely designed to suit individual needs, Gym Buddy helps users steadily progress, ensuring they remain engaged and make sustainable gains.
+
+Looking to the future, Gym Buddy aims to evolve into a highly interactive and intelligent platform, incorporating advanced AI and machine learning to offer even more precise and adaptable recommendations. Future goals include expanding its exercise database to cover a wider variety of workout styles, from yoga to strength training, as well as integrating with popular wearable devices for more seamless monitoring of biometrics. Additionally, the vision includes a social feature that allows users to connect, share achievements, and participate in challenges, creating a community-driven fitness experience. As we push forward, Gym Buddy will continue to strive for excellence, bringing smarter, more intuitive fitness solutions to people worldwide.
+
+This project has a long journey ahead, but its potential impact on the fitness world is vast. I’m looking for passionate and tech-savvy collaborators who are excited about the intersection of fitness, technology, and innovation. Together, we can build something that could transform millions of workout routines worldwide!
+This is Akshith Reddy, and ill see YOU on my project side, ciao!</h4>
