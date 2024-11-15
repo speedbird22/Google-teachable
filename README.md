@@ -39,7 +39,7 @@ This project has a long journey ahead, but its potential impact on the fitness w
 This is Akshith Reddy, and ill see YOU on my project site, ciao!</h4>
 <h1> Using Google teachable machine for Gym buddy</h1>
 
-<h3> Google's Teachable Machine was a pivotal tool in developing the Gym Buddy model. It provided a user-friendly and efficient platform to prototype the posture recognition model with minimal effort. Here’s a detailed breakdown of how it was used and how it contributed to the project:
+<h4> Google's Teachable Machine was a pivotal tool in developing the Gym Buddy model. It provided a user-friendly and efficient platform to prototype the posture recognition model with minimal effort. Here’s a detailed breakdown of how it was used and how it contributed to the project:
 
 Step-by-Step Process
 Data Preparation
@@ -61,4 +61,4 @@ Exporting the Model
 
 Once trained, the model was exported in TensorFlow.js format for integration into web applications.
 This export made it straightforward to deploy the model on multiple platforms, including browsers and mobile devices.
-</h3>
+</h4>
