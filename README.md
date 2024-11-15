@@ -63,12 +63,7 @@ Once trained, the model was exported in TensorFlow.js format for integration int
 This export made it straightforward to deploy the model on multiple platforms, including browsers and mobile devices.
 </h4>
 
-Memory updated
-Here’s the updated README reflecting that pictures were exclusively used:
-
-README for Project: Exercise Posture Recognition Tool - Gym Buddy
-Introduction
-Gym Buddy is an intelligent exercise posture recognition tool that leverages machine learning to classify various exercise postures, identify flaws in form, and suggest corrective actions. The tool is designed to motivate users, encourage consistency, and generate personalized gym plans for enhanced fitness outcomes.
+<h4>
 
 Data Collection and Preparation
 Data Collection
@@ -111,4 +106,4 @@ Cross-Validation: Performed to ensure the model generalizes well on unseen data.
 User Testing: Feedback was gathered from fitness enthusiasts to assess real-world usability and reliability.
 Results
 Accuracy: 92.5% on the test dataset.
-User Satisfaction: 85% of users found the tool helpful in correcting their exercise postures.
+User Satisfaction: 85% of users found the tool helpful in correcting their exercise postures. </h4>
