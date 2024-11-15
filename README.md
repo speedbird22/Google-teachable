@@ -99,11 +99,8 @@ Additional Functionalities
 Exercise Tracking: Tracks the number of repetitions and sessions completed.
 Progress Monitoring: Generates detailed performance analytics for users.
 Performance Evaluation
-Evaluation Methods
+<h1> Evaluation Methods </h1>
 Confusion Matrix: Used to assess classification accuracy and identify misclassified instances.
 Precision, Recall, F1-Score: Metrics computed to evaluate model robustness for different classes.
 Cross-Validation: Performed to ensure the model generalizes well on unseen data.
-User Testing: Feedback was gathered from fitness enthusiasts to assess real-world usability and reliability.
-Results
-Accuracy: 92.5% on the test dataset.
-User Satisfaction: 85% of users found the tool helpful in correcting their exercise postures. </h4>
+ </h4>
