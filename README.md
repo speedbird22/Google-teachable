@@ -65,7 +65,7 @@ This export made it straightforward to deploy the model on multiple platforms, i
 
 <h4>
 
-Data Collection and Preparation
+<h1> Data Collection and Preparation </h1>
 Data Collection
 The training data for Gym Buddy was sourced entirely from online images.
 
@@ -74,18 +74,18 @@ Manually Gathered Images: Images scraped or downloaded from fitness-related webs
 Data Annotation
 All images were carefully annotated using tools like LabelImg to ensure accurate categorization by exercise type and posture classification (e.g., correct form, incorrect form).
 
-Impact of Diverse Dataset
+<h1> Impact of Diverse Dataset </h1>
 Incorporating a diverse dataset significantly enhanced:
 
 Model Accuracy: Improved recognition of exercise postures across varied demographics.
 Reliability: Reduced biases, ensuring consistent performance regardless of environmental factors or user characteristics.
-Model Creation Using Google’s Teachable Machine
+<h1> Model Creation Using Google’s Teachable Machine </h1>
 Google’s Teachable Machine was instrumental in creating the initial prototype of the model due to its simplicity and efficiency.
 
 Data Upload: Images were categorized and uploaded for each exercise class (e.g., correct squat, incorrect squat).
 Training: Teachable Machine automatically split the data into training and validation sets, applying transfer learning to pre-trained neural networks.
 Export: The trained model was exported in TensorFlow.js format, allowing integration into web and mobile platforms.
-Features and Functionalities
+<h1> Features and Functionalities </h1>
 Core Features
 Posture Classification:
 Real-time detection of exercise postures using a webcam or device camera.
